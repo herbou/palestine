@@ -1,2 +1,1 @@
-# palestine
-Palestine flag made with nature images
+# try me https://herbou.github.io/palestine/
